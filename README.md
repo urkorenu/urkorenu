@@ -2,9 +2,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/or-koren-a880b322a/)  
 
-Hello, I'm Or! I'm a passionate DevOps Engineer. 
+Hello, I'm Or! I'm a passionate DevOps Engineer - Currently working in AutoDesk. 
 I'm a problem-solver who loves tackling challenges and learning new things on my own.
 
+[My landing page](https://urkorenu.github.io/landing_page/)
 
 ## 🚀 GitHub Stats
 
